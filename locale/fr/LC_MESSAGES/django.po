@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-18 22:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Client Name"
+msgstr "Nom du client"
+
+msgid "Creation Date"
+msgstr "Date de création"
+
+msgid "Is Active"
+msgstr "Actif"
+
+msgid "Client"
+msgstr "Client"
+
+msgid "Clients"
+msgstr "Clients"
+
+msgid "Basic"
+msgstr "Basique"
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "Enterprise"
+msgstr "Entreprise"
+
+msgid "Plan"
+msgstr "Offre"
+
+msgid "Start Date"
+msgstr "Date de début"
+
+msgid "Expiration Date"
+msgstr "Date d’expiration"
+
+msgid "Subscription"
+msgstr "Abonnement"
+
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+msgid "Django User"
+msgstr "Utilisateur Django"
+
+msgid "Primary Client Organization"
+msgstr "Organisation cliente principale"
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Customers"
+msgstr "Clients"
+
+msgid "Managed Clients"
+msgstr "Clients gérés"
+
+msgid "Analyst"
+msgstr "Analyste"
+
+msgid "Analysts"
+msgstr "Analystes"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "French"
+msgstr "Français"
